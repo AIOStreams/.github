@@ -24,6 +24,8 @@ organisation holds the pieces other projects can use on their own:
 
 | Repository | What it is |
 | --- | --- |
+| [addon-sdk](https://github.com/AIOStreams/addon-sdk) | Build addons for AIOStreams and Stremio with every field of the AIOStreams addon protocol ([npm](https://www.npmjs.com/package/@aiostreams/addon-sdk)) |
+| [release-parser](https://github.com/AIOStreams/release-parser) | Parse torrent and Usenet release names: title, year, episodes, resolution, quality, codecs, audio and languages ([npm](https://www.npmjs.com/package/@aiostreams/release-parser)) |
 | [libs](https://github.com/AIOStreams/libs) | libmpv, FFmpeg and libass, built for the apps on Android, Windows and macOS |
 | [media](https://github.com/AIOStreams/media) | Rust crates for seek-bar thumbnails and subtitle timelines of videos streamed over HTTP |
 | [fsmux](https://github.com/AIOStreams/fsmux) | Serve any filesystem over NFSv4, WebDAV and FUSE ([npm](https://www.npmjs.com/package/@aiostreams/fsmux)) |
